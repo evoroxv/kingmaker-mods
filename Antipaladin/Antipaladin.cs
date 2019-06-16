@@ -1,5 +1,5 @@
-// Copyright (c) 2019 Jennifer Messerly
-// This code is licensed under MIT license (see LICENSE for details)
+// Original code and Layout Copyright (c) 2019 Jennifer Messerly
+// This code is licensed under MIT license
 
 using System;
 using System.Collections.Generic;
