@@ -1,0 +1,14 @@
+{
+	"Title": {
+		"en": "Revolvers and Rifles"
+	},
+	"Description": {
+		"en": "Adds new Revolver and Rifle items based on the western guns from the 1800s."
+	},
+	"Author": "Evoro",
+	"ModVersion": "0.1",
+	"SupportedGameVersion": {
+		"Min": "4.1.0",
+		"Max": "5.0.0"
+	}
+}

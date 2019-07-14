@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\items</Name>
+  <Entries>
+    <Entry>
+      <ID>19145</ID>
+      <DefaultText>Revolver</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19146</ID>
+      <DefaultText>Crafted as a collaboration effort between the fabled Vailian gunsmith Pharia Wesson and retired pirate captain Mevi Konsmith, this pistol has been fitted with a spinning (or 'revolving') chamber that allows it to fire off up to five rounds before requiring a reload. The efficacy of the gun — and the stopping power of its paired ammunition — inspired Captain Konsmith to resume her piratical career, until the revolver was lost in their ship's catastrophic downfall. Its designs, however, were safely kept with Pharia, and — with the aid of a particularly creative individual — could once again see a breakthrough in firearms technology.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19147</ID>
+      <DefaultText>Fan the Hammer</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
